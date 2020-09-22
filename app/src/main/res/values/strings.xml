@@ -1,3 +1,4 @@
 <resources>
+    <string name="app_name">Covid Tracker 2020</string>
     <string name="app_msg">Hello Covid Tracker App!</string>
 </resources>
